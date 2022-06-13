@@ -17,8 +17,8 @@ function App() {
 
       {/* TRENDING SECTION */}
       <div className="trending">
-        <Trending />
         <MostViewed />
+        <Trending />
       </div>
       {/* END TRENDING */}
 

@@ -2,6 +2,7 @@
   height: 100vh;
   background: url("../assets/images/bg/main1.jpg");
   background-size: cover;
+  background-attachment: fixed;
 }
 
 .intro {
@@ -24,6 +25,7 @@
   height: auto;
   background: url("../assets/images/bg/main.jpg");
   background-size: cover;
+  background-position: center;
 }
 
 /* .mostviewed {
@@ -32,8 +34,8 @@
   background-size: cover;
 } */
 
-.movieWrapper {
-}
+/* .movieWrapper {
+} */
 
 .movieImg {
   height: auto;

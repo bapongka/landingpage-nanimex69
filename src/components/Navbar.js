@@ -7,8 +7,8 @@ const Navigation = () => {
         <Container>
           <Navbar.Brand href="/">NANIMEX69</Navbar.Brand>
           <Nav>
-            <Nav.Link href="#trending">TRENDING</Nav.Link>
             <Nav.Link href="#mostviewed">MOST VIEWED</Nav.Link>
+            <Nav.Link href="#trending">TRENDING</Nav.Link>
           </Nav>
         </Container>
       </Navbar>
